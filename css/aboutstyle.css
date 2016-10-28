@@ -269,5 +269,5 @@ svg {
     background-color: #fff!important;
 }
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color:none;
+    background:none!important;
 }
