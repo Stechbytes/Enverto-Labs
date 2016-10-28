@@ -268,3 +268,6 @@ svg {
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #fff!important;
 }
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color:none!important;
+}
