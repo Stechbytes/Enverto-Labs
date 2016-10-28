@@ -111,7 +111,7 @@ body
   }
   .navbar {
       margin-bottom: 0;
-      background-color: #007cc4;
+      background-color: #6600ff;
       z-index: 9999;
       border: 0;
       font-size: 12px !important;
@@ -119,6 +119,8 @@ body
       letter-spacing: 4px;
       border-radius: 0;
       font-family: Montserrat, sans-serif;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
+
   }
   .navbar li a, .navbar .navbar-brand {
       color: #fff !important;
